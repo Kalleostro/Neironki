@@ -1,0 +1,4 @@
+1 C:\Users\Kalleostro\Desktop\Neironki\img\train\one\version1.bmp
+1 C:\Users\Kalleostro\Desktop\Neironki\img\train\one\version11.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\img\train\zero\version2.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\img\train\zero\version4.bmp

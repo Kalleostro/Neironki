@@ -1,0 +1,12 @@
+C:\Users\Kalleostro\Desktop\Neironki\Lab2\NeuralLibrary\bin\Debug\NeuralLibrary.dll
+C:\Users\Kalleostro\Desktop\Neironki\Lab2\NeuralLibrary\bin\Debug\NeuralLibrary.pdb
+C:\Users\Kalleostro\Desktop\Neironki\Lab2\NeuralLibrary\obj\Debug\NeuroLib.csprojAssemblyReference.cache
+C:\Users\Kalleostro\Desktop\Neironki\Lab2\NeuralLibrary\obj\Debug\NeuroLib.csproj.CoreCompileInputs.cache
+C:\Users\Kalleostro\Desktop\Neironki\Lab2\NeuralLibrary\obj\Debug\NeuralLibrary.dll
+C:\Users\Kalleostro\Desktop\Neironki\Lab2\NeuralLibrary\obj\Debug\NeuralLibrary.pdb
+C:\Users\Kalleostro\Desktop\Neironki\Lab2\NLib\obj\Debug\NeuroLib.csprojAssemblyReference.cache
+C:\Users\Kalleostro\Desktop\Neironki\Lab2\NLib\obj\Debug\NeuroLib.csproj.CoreCompileInputs.cache
+C:\Users\Kalleostro\Desktop\Neironki\Lab2\NLib\obj\Debug\NeuralLibrary.dll
+C:\Users\Kalleostro\Desktop\Neironki\Lab2\NLib\obj\Debug\NeuralLibrary.pdb
+C:\Users\Kalleostro\Desktop\Neironki\Lab2\NLib\bin\Debug\NeuralLibrary.dll
+C:\Users\Kalleostro\Desktop\Neironki\Lab2\NLib\bin\Debug\NeuralLibrary.pdb

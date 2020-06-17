@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroL2Tests", "NeuroL2Tests\NeuroL2Tests.csproj", "{5F0F280F-6DA4-4338-B43A-F97F0E0FB492}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Л2", "Л2", "{908C3022-EE3F-46E1-8EA4-5E3DD4F0D554}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Л3", "Л3", "{0E6B77E8-858F-4032-AA4F-76944CE1CE30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVMForm", "..\Lab3\SVMForm\SVMForm.csproj", "{75AB07E0-6247-4C7F-9EFB-8685C2786F52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVMLib", "..\Lab3\SVMLib\SVMLib.csproj", "{2E9F087C-6384-4FD3-8060-C13F368EEB3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroL2App", "..\Lab2\Form\NeuroL2App.csproj", "{D9E2EAFA-5DC1-45AD-8B8A-D6B07B0C1E66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroLib", "..\Lab2\NLib\NeuroLib.csproj", "{17612899-CE83-4FF2-9E71-5E099454FBC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F0F280F-6DA4-4338-B43A-F97F0E0FB492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0F280F-6DA4-4338-B43A-F97F0E0FB492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0F280F-6DA4-4338-B43A-F97F0E0FB492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0F280F-6DA4-4338-B43A-F97F0E0FB492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75AB07E0-6247-4C7F-9EFB-8685C2786F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75AB07E0-6247-4C7F-9EFB-8685C2786F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75AB07E0-6247-4C7F-9EFB-8685C2786F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75AB07E0-6247-4C7F-9EFB-8685C2786F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E9F087C-6384-4FD3-8060-C13F368EEB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9F087C-6384-4FD3-8060-C13F368EEB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9F087C-6384-4FD3-8060-C13F368EEB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9F087C-6384-4FD3-8060-C13F368EEB3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E2EAFA-5DC1-45AD-8B8A-D6B07B0C1E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E2EAFA-5DC1-45AD-8B8A-D6B07B0C1E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E2EAFA-5DC1-45AD-8B8A-D6B07B0C1E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E2EAFA-5DC1-45AD-8B8A-D6B07B0C1E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17612899-CE83-4FF2-9E71-5E099454FBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17612899-CE83-4FF2-9E71-5E099454FBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17612899-CE83-4FF2-9E71-5E099454FBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17612899-CE83-4FF2-9E71-5E099454FBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5F0F280F-6DA4-4338-B43A-F97F0E0FB492} = {908C3022-EE3F-46E1-8EA4-5E3DD4F0D554}
+		{75AB07E0-6247-4C7F-9EFB-8685C2786F52} = {0E6B77E8-858F-4032-AA4F-76944CE1CE30}
+		{2E9F087C-6384-4FD3-8060-C13F368EEB3D} = {0E6B77E8-858F-4032-AA4F-76944CE1CE30}
+		{D9E2EAFA-5DC1-45AD-8B8A-D6B07B0C1E66} = {908C3022-EE3F-46E1-8EA4-5E3DD4F0D554}
+		{17612899-CE83-4FF2-9E71-5E099454FBC0} = {908C3022-EE3F-46E1-8EA4-5E3DD4F0D554}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90D04FCB-7E11-4F70-AC87-6A8535B1CA8B}
+	EndGlobalSection
+EndGlobal

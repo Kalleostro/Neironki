@@ -1,0 +1,25 @@
+1 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\one\version1.bmp
+1 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\one\version2.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\zero\version3.bmp
+1 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\one\version3.bmp
+1 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\one\version4.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\zero\version8.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\zero\version12.bmp
+1 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\one\version5.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\zero\version9.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\zero\version10.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\zero\version11.bmp
+1 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\one\version6.bmp
+1 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\one\version7.bmp
+1 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\one\version9.bmp
+1 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\one\version10.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\zero\version6.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\zero\version7.bmp
+1 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\one\version11.bmp
+1 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\one\version12.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\zero\version1.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\zero\version2.bmp
+1 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\one\version8.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\zero\version4.bmp
+0 C:\Users\Kalleostro\Desktop\Neironki\train\imgs\zero\version5.bmp
+
